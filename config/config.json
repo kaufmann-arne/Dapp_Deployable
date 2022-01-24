@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3d8e9f771a3ab9ffa3dbcbc45fd209fef1bc053b",
+  "SCAN_LINK": "https://testnet.snowtrace.io/token/0x3d8e9f771a3ab9ffa3dbcbc45fd209fef1bc053b",
+  "NETWORK": {
+    "NAME": "FUJI C-CHAIN",
+    "SYMBOL": "Avax",
+    "ID": 43113
+  },
+  "NFT_NAME": "Fortress Knight NFT",
+  "SYMBOL": "KNIGHT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Kalao",
+  "MARKETPLACE_LINK": "https://marketplace.kalao.io/",
+  "SHOW_BACKGROUND": true
+}
